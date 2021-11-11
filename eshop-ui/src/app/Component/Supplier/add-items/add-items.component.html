@@ -1,0 +1,25 @@
+<div class="container">
+    <div class="row">
+      <label>Item Id</label>
+      <input type="text" class="form-control" [(ngModel)]="item.itemId">
+    </div>
+    <div class="row">
+      <label>Item Name</label>
+      <input type="text" class="form-control" [(ngModel)]="item.itemName">
+    </div>
+    <div class="row">
+      <label>Price</label>
+      <input type="number" class="form-control" [(ngModel)]="item.price">
+    </div>
+    <div class="row">
+      <label>Stock</label>
+      <input type="number" class="form-control" [(ngModel)]="item.stock">
+    </div>
+    <div class="row">
+      <label>Categroy</label>
+      <input type="number" class="form-control" [(ngModel)]="item.categroyId">
+    </div>
+    <div class="row">
+      <button on-click='AddItems()'>Add</button>
+    </div>
+  </div>
