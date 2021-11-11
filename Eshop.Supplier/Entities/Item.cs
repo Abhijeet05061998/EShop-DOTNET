@@ -19,7 +19,7 @@ namespace Eshop.Supplier.Entities
         public string ItemName { get; set; }
         public int Price { get; set; }
         public int? Stock { get; set; } //set as null
-
+//declared as foreign key
         [ForeignKey("Category")]
         public int CategroyId { get; set; }
 
