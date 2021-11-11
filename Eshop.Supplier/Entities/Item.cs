@@ -23,6 +23,6 @@ namespace Eshop.Supplier.Entities
         [ForeignKey("Category")]
         public int CategroyId { get; set; }
 
-        public Category Category { get; set; } //Navigation property
+        public Category Category { get; set; } //Navigation property use for make  relationship 
     }
 }
