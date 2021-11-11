@@ -15,6 +15,10 @@
               <td>{{item.itemName}}</td>
               <td>{{item.price}}</td>
               <td>{{item.stock}}</td>
+
+              <td>
+                  <button on-click='DeleteItem(item.itemId)'>DELETE</button>
+              </td>
       </tbody>
   </table>
 

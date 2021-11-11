@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nw8qYoxy+a8zAY0IjvuViaSzW9oEWAWfifKccX3O6lKSj9DGQbBxcAvwcR0CsOf0gl714GQXgLWK9otJEKAyYg==",
+  "dgSpecHash": "QNvTMZBZMBj1Wrs2hHKe12L5LlfleZh4b6dMm9cLxzY0Jc84IZO8JiERupp//81X4ptGrM/3/3iQRJ1PvnmP3A==",
   "success": true,
-  "projectFilePath": "C:\\Office-Work\\dotnet-training-batch-3\\API\\EShop\\Eshop.Supplier\\Eshop.Supplier.csproj",
+  "projectFilePath": "C:\\Office-Work\\Practice\\EShop-DOTNET\\Eshop.Supplier\\Eshop.Supplier.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abhij\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\abhij\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",

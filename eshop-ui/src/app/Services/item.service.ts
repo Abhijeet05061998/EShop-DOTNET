@@ -19,4 +19,7 @@ export class ItemService {
   {
     return this.http.post(this.Item_Url + 'AddItem',item);
   }
+  DeleteItem(itemId:number):Observable<any>{
+    return this.http.delete(this.Item_Url + 'DeleteItem/'+itemId , {responseType: 'text'}) 
+  }
 }

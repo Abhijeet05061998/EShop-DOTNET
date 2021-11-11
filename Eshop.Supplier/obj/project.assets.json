@@ -6209,11 +6209,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Office-Work\\dotnet-training-batch-3\\API\\EShop\\Eshop.Supplier\\Eshop.Supplier.csproj",
+      "projectUniqueName": "C:\\Office-Work\\Practice\\EShop-DOTNET\\Eshop.Supplier\\Eshop.Supplier.csproj",
       "projectName": "Eshop.Supplier",
-      "projectPath": "C:\\Office-Work\\dotnet-training-batch-3\\API\\EShop\\Eshop.Supplier\\Eshop.Supplier.csproj",
+      "projectPath": "C:\\Office-Work\\Practice\\EShop-DOTNET\\Eshop.Supplier\\Eshop.Supplier.csproj",
       "packagesPath": "C:\\Users\\abhij\\.nuget\\packages\\",
-      "outputPath": "C:\\Office-Work\\dotnet-training-batch-3\\API\\EShop\\Eshop.Supplier\\obj\\",
+      "outputPath": "C:\\Office-Work\\Practice\\EShop-DOTNET\\Eshop.Supplier\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abhij\\AppData\\Roaming\\NuGet\\NuGet.Config",

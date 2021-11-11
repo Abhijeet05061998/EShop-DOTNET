@@ -24,4 +24,14 @@ item_service.GetAllItems().subscribe(Response=>{
   ngOnInit(): void {
   }
 
+
+  DeleteItem(itemId:number)
+  {
+    this.item_service.DeleteItem(itemId).subscribe(Response=>{
+
+    },error=>{
+      console.log(error);
+    })
+  }
+
 }
