@@ -7,7 +7,7 @@ namespace Eshop.Supplier.Entities
 {
     public class MyShowDBContext:DbContext
     {
-        //Entity set
+        //Entity class set//
         public DbSet<Category> Categories { get; set; }
         public DbSet<Item> Items { get; set; }
         //Add DB String
