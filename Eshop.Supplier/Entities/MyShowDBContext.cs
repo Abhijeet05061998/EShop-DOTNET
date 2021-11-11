@@ -10,7 +10,7 @@ namespace Eshop.Supplier.Entities
         //Entity set
         public DbSet<Category> Categories { get; set; }
         public DbSet<Item> Items { get; set; }
-
+        //Add DB String
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(@"Data Source=DESKTOP-OIKH9AV\SQLEXPRESS;Initial Catalog=NewDB;Integrated Security=True");
